@@ -1,0 +1,13 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "Trial API",
+    "version" : "1",
+    "title" : "Trial"
+  },
+  "host" : "virtserver.swaggerhub.com",
+  "basePath" : "/pranitha-sridhar/Trial/1",
+  "schemes" : [ "https" ],
+  "paths" : { },
+  "definitions" : { }
+}
